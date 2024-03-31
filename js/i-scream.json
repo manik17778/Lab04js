@@ -24,10 +24,10 @@
         "image": "https://manik17778.github.io/Lab04js/images/strawberry-sprinkle.svg"
     },
     {
-        "name": "Caramel Crunch",
-        "calories": 280,
+        "name": "ButterScotch Crunch",
+        "calories": 350,
         "type": "ice-cream",
-        "ingredients": ["Caramel Syrup", "Toffee Crunch", "Vanilla Base"],
+        "ingredients": ["Butter Syrup", " Cookie Crunch", "Vanilla Base"],
         "image": "https://manik17778.github.io/Lab04js/images/ice-cream-xtra1.svg"
     },
     {
